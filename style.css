@@ -1,0 +1,15 @@
+ nav > ul {
+display: inline;
+}
+ body {
+    font-family: roboto;
+ }
+ 
+  ol {
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: bold;
+   font-weight: normal;
+   color: black;
+   padding: 2px,0px,2px,0px;
+   border: ridge black;
+  }
